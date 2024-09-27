@@ -39,8 +39,8 @@
 }
 
 .ds4 .bumper {
-    width: 99px;
-    height: 23px;
+    width: 102px;
+    height: 25px;
     background: url(bumpermod.png) no-repeat;
     opacity: 0;
 }
